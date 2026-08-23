@@ -1,4 +1,4 @@
-# Bank Customer Churn Predictor
+# Customer Churn Predictor
 
 An end-to-end machine learning project that predicts whether a bank customer is likely to churn (leave the bank), based on their profile — credit score, geography, gender, age, tenure, balance, number of products, credit card status, activity status, and salary. Built with a Keras Artificial Neural Network and deployed as an interactive Streamlit app.
 
