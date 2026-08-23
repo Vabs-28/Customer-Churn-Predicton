@@ -1,4 +1,4 @@
-# Customer Churn Predictor
+# Bank Customer Churn Predictor
 
 An end-to-end machine learning project that predicts whether a bank customer is likely to churn (leave the bank), based on their profile — credit score, geography, gender, age, tenure, balance, number of products, credit card status, activity status, and salary. Built with a Keras Artificial Neural Network and deployed as an interactive Streamlit app.
 
@@ -175,7 +175,7 @@ Open `experiments.ipynb` in Jupyter and run all cells — this regenerates `mode
 
 ## License
 
-*[Add your license here, e.g. MIT — see the LICENSE file]*
+This project is licensed under the [MIT License](LICENSE) — see the `LICENSE` file for details.
 
 ---
 
